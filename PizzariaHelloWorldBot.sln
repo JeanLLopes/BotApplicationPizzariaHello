@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzariaHelloWorldBot", "PizzariaHelloWorldBot\PizzariaHelloWorldBot.csproj", "{9214771E-404A-4842-987C-B19B9D1EF36E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9214771E-404A-4842-987C-B19B9D1EF36E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9214771E-404A-4842-987C-B19B9D1EF36E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9214771E-404A-4842-987C-B19B9D1EF36E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9214771E-404A-4842-987C-B19B9D1EF36E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6EB4E9E-D13A-4409-9FB5-1A570B2D69BD}
+	EndGlobalSection
+EndGlobal
